@@ -31,7 +31,7 @@
 			text-decoration: none;
 		}
 
-	strong, b {
+	strong, b, .cc-active {
 		color: #666f77;
 		font-weight: 500;
 	}
@@ -147,6 +147,14 @@
 	.align-right {
 		text-align: right;
 	}
+
+    .float-left {
+        float: left;
+    }
+
+    .float-right {
+        float: right;
+    }
 
 /* Section/Article */
 
