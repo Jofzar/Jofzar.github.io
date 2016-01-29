@@ -5,6 +5,7 @@ date: "2016-01-29 15:23:06"
 author: "Redact"
 meta: "test post"
 ---
+<img src="{{ site.baseurl }}/images/Dekar.jpg" class="fit image">
 Dekar’s debut as a T.O. with “Don’t Get Stabbed” was a huge success which was only complimented with the lavish location that is Boronia. The lead up to the tourney was ripe with jokes about Boronia, but the ease of access to everything around the venue and the venue itself was quite exceptional.
 
 The day started off a little shaky though, with a lack of consoles and some people coming late, Dekar was a little worried. But by Teams starting time the turnout was solid, including NSW players Ted and Ricky. Teams for both games were very un-eventful. Ted and Ricky had a straight run to victory in brawl teams, along with Cao and Meteor performing the same in melee, making Ricky the champion in both melee and brawl teams.
