@@ -3,7 +3,7 @@ layout: post
 title: "Don't Get Stabbed"
 date: "2016-01-29 15:23:06"
 author: "Redact"
-meta: "test post"
+meta: "Tourney results"
 ---
 <img src="{{ site.baseurl }}/images/Dekar.jpg" class="fit image">
 Dekar’s debut as a T.O. with “Don’t Get Stabbed” was a huge success which was only complimented with the lavish location that is Boronia. The lead up to the tourney was ripe with jokes about Boronia, but the ease of access to everything around the venue and the venue itself was quite exceptional.
