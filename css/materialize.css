@@ -3,6 +3,11 @@
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+ 
+..karaminds {
+  background-color: #21366C !important;
+}
+ 
 .materialize-red {
   background-color: #e51c23 !important;
 }
@@ -308,7 +313,7 @@
 }
 
 .purple {
-  background-color: #9c27b0 !important;
+  background-color: #21366C !important;
 }
 
 .purple-text {
