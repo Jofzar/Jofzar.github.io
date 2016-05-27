@@ -4,43 +4,14 @@
  * the core Materialize files in the future
  *
  * Made By MaterializeCSS.com
- */
+ */ 
 
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-	font-size: inherit;
+p {
+  line-height: 2rem;
 }
 
-.background-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
-}
-  .background-container .section {
-    width: 100%;
-  }
-
-@media only screen and (max-width : 992px) {
-  .background-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  }
-}
-
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
-}
-
-h4 {
-  text-align: center;
+.button-collapse {
+  color: #26a69a;
 }
 
 .parallax-container {
@@ -67,4 +38,15 @@ h4 {
   #index-banner .section {
     top: 0;
   }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
 }
